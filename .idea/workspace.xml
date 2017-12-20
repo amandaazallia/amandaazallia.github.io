@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f30f872-6104-46e9-8a75-b0738e4c71dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/about.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/contact.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/cover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/person1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/person2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-header.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio9.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/site-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/site-logo.svg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/portfolio-page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scripts/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,9 +16,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="629">
+              <caret line="79" column="142" lean-forward="false" selection-start-line="79" selection-start-column="142" selection-end-line="79" selection-end-column="142" />
+              <folding>
+                <element signature="e#3660#3666#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,6 +29,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -125,12 +109,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513758981926</updated>
-      <workItem from="1513758984115" duration="276000" />
+      <workItem from="1513758984115" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276000" />
+    <option name="totallyTimeSpent" value="483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -169,9 +153,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="629">
+          <caret line="79" column="142" lean-forward="false" selection-start-line="79" selection-start-column="142" selection-end-line="79" selection-end-column="142" />
+          <folding>
+            <element signature="e#3660#3666#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
