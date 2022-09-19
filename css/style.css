@@ -1,71 +1,50 @@
-@font-face {
-    font-family: Quichesans;
-    src: url("../fonts/quichesans-regular.otf") format("opentype");
+body {
+  width: 80%;
+  margin: 10vw auto;
+}
+
+.heading {
+  font-family: "Playfair Display", serif;
+  font-size: 10vw;
+}
+
+.subheading {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  font-weight: normal;
 }
 
 a {
-    text-decoration: none;
-    color: #000000;
-}
-
-.header {
-    width: 100%;
-    height: 90px;
-    /* background: #2c3e50; */
-    text-align: center;
-    padding-top: 200px;
-}
-
-.title {
-    font-family: 'Abril Fatface', cursive;
-    color: #000000;
-    letter-spacing: 0.1em;
-}
-
-.content {
-    text-align: center;
-}
-
-.menu {
-    font-family: 'Josefin Slab', serif;
-    font-size: 22px;
-}
-
-.menu:hover {
-    font-family: 'Josefin Slab', serif;
-    text-decoration: underline;
-    /* font-size: 22px; */
-    font-size: 2vw;
-    transition: .3s ease-in-out;
-    cursor: pointer;
+  text-decoration: none;
+  color: #000;
 }
 
 .footer {
-    padding-top: 40px;
-    font-family: 'Josefin Slab', serif;
-    text-align: center;
+  padding-top: 40px;
 }
 
-.ic-love {
-    color: #e44134;
+@media screen and (min-width: 40em) {
+  body {
+    width: 50%;
+    font-family: "Lora", serif;
+  }
+  .heading {
+    font-size: 6vw;
+  }
+  .subheading {
+    font-size: 1.75vw;
+  }
 }
-
-@media screen and (min-width: 601px) {
-    .title {
-        font-size: 38px;
-    }
+/*================================================ Start Important Part ==================================================*/
+.underline--magical {
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
 }
-
-@media screen and (max-width: 600px) {
-    .title {
-        font-size: 38px;
-    }
-
-    .header {
-        width: 100%;
-        height: 120px;
-        /* background: #2c3e50; */
-        text-align: center;
-        padding-top: 150px;
-    }
+.underline--magical:hover {
+  background-size: 100% 88%;
 }
+/*================================================ End Important Part ==================================================*/
